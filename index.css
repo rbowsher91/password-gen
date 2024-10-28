@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    color: #fdfdfd
+}
+
+#random-password-color {
+    color: #4ae086
+}
+
+#whitebox {
+    background-color: #fefefe;
+    padding: 10px;
+}
+
+#bluebox {
+    background-color: #1e2a37;
+    padding: 50px;
+    border-radius: 10px
+}
+
+#caption {
+    color: #b7bdc5
+}
+
+button {
+    background-color: #0fb981;
+    border: 0px ;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #c0eedf;
+    margin-top: 20px
+}
+
+hr {
+    border: 1px solid #2e3c4d;
+    margin-top: 20px
+}
+
+.genned-pass-el {
+    background-color: #273648;
+    width: 150px;
+    height: 20px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#passwords-fields {
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    height: 13px;
+}
+
